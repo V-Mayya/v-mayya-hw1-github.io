@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>HTML Homework - Week 1</title>
+</head>
+
+<body>
+  <!-- You will want to wrap this link in other elements, we're just showing you how its done -->
+  <header style = "background-color:rgba(255, 99, 71, 0.7);font-size:25px">HTML Homework - Week 1 </header>
+  <br>
+  <nav> <a href="h.w_week1_page2.html" style ="font-size:22px">LEARN MORE &#129302;</a></nav>
+  <main>
+    <h1 style = "font-size:35px">What is artificial intelligence (AI)&#10067; </h1>
+    <iframe src="https://giphy.com/embed/26ufe34jLiGEOqyM8" width="700" height="420" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-cup-machine-26ufe34jLiGEOqyM8"></a></p> 
+   
+    <p style = "font-size:25px;">Artificial intelligence leverages computers and machines to mimic the problem-solving and decision-making capabilities of the human mind.</p>
+    <ul>
+        <li style = "font-size:22px">&#11088; Systems that think and act rationally</li>
+        <li style = "font-size:22px">&#11088; Combines computer science and robust datasets to enable problem-solving</li>
+        <li style = "font-size:22px">&#11088;  AI plays an often invisible role in everyday life, powering search engines, product recommendations, and speech recognition systems
+        </li>
+    </ul> 
+
+    <p style = "font-size:22px">&#128640; Find the source <a href = "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence">here</a>.</p>
+
+  </main>
+  <div>
+  <footer style = "border:3px solid Tomato;">Made by <b>Vaib Mayya</b> &#x1F469;</footer>
+</div>
+  
+</body>
+
+</html>
